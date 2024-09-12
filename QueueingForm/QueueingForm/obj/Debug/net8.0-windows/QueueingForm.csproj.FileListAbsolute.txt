@@ -1,0 +1,17 @@
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\obj\Debug\net8.0-windows\QueueingForm.CashierWindowQueueForm.resources
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\obj\Debug\net8.0-windows\QueueingForm.queuingForm.resources
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\obj\Debug\net8.0-windows\QueueingForm.csproj.GenerateResource.cache
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\obj\Debug\net8.0-windows\QueueingForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\obj\Debug\net8.0-windows\QueueingForm.AssemblyInfoInputs.cache
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\obj\Debug\net8.0-windows\QueueingForm.AssemblyInfo.cs
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\obj\Debug\net8.0-windows\QueueingForm.csproj.CoreCompileInputs.cache
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\bin\Debug\net8.0-windows\QueueingForm.exe
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\bin\Debug\net8.0-windows\QueueingForm.deps.json
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\bin\Debug\net8.0-windows\QueueingForm.runtimeconfig.json
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\bin\Debug\net8.0-windows\QueueingForm.dll
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\bin\Debug\net8.0-windows\QueueingForm.pdb
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\obj\Debug\net8.0-windows\QueueingForm.dll
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\obj\Debug\net8.0-windows\refint\QueueingForm.dll
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\obj\Debug\net8.0-windows\QueueingForm.pdb
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\obj\Debug\net8.0-windows\QueueingForm.genruntimeconfig.cache
+C:\Users\XoS\source\repos\QueueingForm\QueueingForm\obj\Debug\net8.0-windows\ref\QueueingForm.dll
